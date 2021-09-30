@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Marshmallow",
+      "image": "https://m.media-amazon.com/images/I/91zuGKM16kL._AC_SL1500_.jpg",
+      "price": "10",
+      "id": 9
     }
   ]
 }
